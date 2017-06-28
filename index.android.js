@@ -1,0 +1,3 @@
+/* eslint-disable */
+__STRESS_TEST__ = false
+import App from './src/App'
